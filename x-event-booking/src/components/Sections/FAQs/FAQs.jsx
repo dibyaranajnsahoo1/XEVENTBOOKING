@@ -1,4 +1,4 @@
-// CRIO_SOLUTION_START_MODULE_ONE
+
 import { Box, Container, Grid, Typography } from "@mui/material";
 import faqBanner from '../../../assets/eventfaq.jpg'
 import CustomizedAccordions from "../../Accordion/Accordion";
@@ -55,4 +55,3 @@ export default function FAQs() {
         </Box>
     )
 }
-// CRIO_SOLUTION_END_MODULE_ONE

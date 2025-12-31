@@ -1,4 +1,4 @@
-// CRIO_SOLUTION_START_MODULE_ONE
+
 import { Box, Stack, Typography } from "@mui/material";
 import featured from '../../../assets/eventblog.jpg'
 import person from '../../../assets/person.png'
@@ -33,4 +33,3 @@ export default function BlogCard() {
         </Box>
     )
 }
-// CRIO_SOLUTION_END_MODULE_ONE

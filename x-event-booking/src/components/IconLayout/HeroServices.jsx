@@ -1,4 +1,4 @@
-// CRIO_SOLUTION_START_MODULE_ONE
+
 import { Box, Grid, Typography } from "@mui/material";
 import eventIcon from "../../assets/eventhome.png";
 import venueIcon from "../../assets/venue.png";
@@ -51,4 +51,3 @@ export default function HeroServices() {
     </Box>
   );
 }
-// CRIO_SOLUTION_END_MODULE_ONE

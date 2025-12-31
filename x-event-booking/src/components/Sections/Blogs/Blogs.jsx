@@ -1,4 +1,4 @@
-// CRIO_SOLUTION_START_MODULE_ONE
+
 import { Box, Container, Grid, Typography } from "@mui/material";
 import BlogCard from "./BlogCard";
 
@@ -29,4 +29,3 @@ export default function Blogs() {
         </Box>
     )
 }
-// CRIO_SOLUTION_END_MODULE_ONE

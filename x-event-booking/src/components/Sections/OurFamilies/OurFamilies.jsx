@@ -1,4 +1,4 @@
-// CRIO_SOLUTION_START_MODULE_ONE
+
 import { Box, Container, Grid, Typography } from "@mui/material";
 import banner from '../../../assets/eventteam.png' //to be changed
 
@@ -37,4 +37,3 @@ export default function OurFamilies() {
         </Box>
     )
 }
-// CRIO_SOLUTION_END_MODULE_ONE

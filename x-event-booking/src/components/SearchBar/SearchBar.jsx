@@ -1,4 +1,4 @@
-// CRIO_SOLUTION_START_MODULE_ONE
+
 import { Stack, TextField, Button } from "@mui/material";
 import { useState, useMemo } from "react";
 import SearchIcon from "@mui/icons-material/Search";
@@ -47,4 +47,3 @@ export default function SearchBar({ list, filterList }) {
     </form>
   );
 }
-// CRIO_SOLUTION_END_MODULE_ONE

@@ -1,4 +1,4 @@
-// CRIO_SOLUTION_START_MODULE_ONE
+
 import { Container, Box, Stack } from "@mui/material";
 import HeroSlider from "../components/HeroSlider/HeroSlider";
 import SearchEvent from "../components/SearchEvent/SearchEvent";
@@ -51,4 +51,3 @@ export default function Home() {
     </Box>
   );
 }
-// CRIO_SOLUTION_END_MODULE_ONE

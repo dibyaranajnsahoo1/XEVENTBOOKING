@@ -1,4 +1,4 @@
-// CRIO_SOLUTION_START_MODULE_ONE
+
 import { MenuItem, Select, Button, InputAdornment, Box } from "@mui/material";
 import { useEffect, useState } from "react";
 import SearchIcon from "@mui/icons-material/Search";
@@ -133,4 +133,3 @@ export default function SearchEvent() {
     </Box>
   );
 }
-// CRIO_SOLUTION_END_MODULE_ONE

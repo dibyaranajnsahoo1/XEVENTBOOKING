@@ -1,4 +1,4 @@
-// CRIO_SOLUTION_START_MODULE_ONE
+
 import mobile from "../../../assets/eventdownload.png";
 import playstore from "../../../assets/playstore.png";
 import apple from "../../../assets/apple-logo.png";
@@ -84,4 +84,3 @@ export default function DownloadApp() {
     </Box>
   );
 }
-// CRIO_SOLUTION_END_MODULE_ONE

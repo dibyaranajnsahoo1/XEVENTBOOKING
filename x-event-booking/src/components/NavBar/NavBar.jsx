@@ -1,4 +1,4 @@
-// CRIO_SOLUTION_START_MODULE_ONE
+
 import {
   Box,
   Container,
@@ -87,4 +87,3 @@ export default function NavBar() {
     </header>
   );
 }
-// CRIO_SOLUTION_END_MODULE_ONE

@@ -1,4 +1,4 @@
-// CRIO_SOLUTION_START_MODULE_ONE
+
 import { Box, Container } from "@mui/material";
 import { Pagination } from 'swiper/modules';
 import { Swiper, SwiperSlide } from "swiper/react";
@@ -55,4 +55,3 @@ export default function Offers() {
         </Box>
     )
 }
-// CRIO_SOLUTION_END_MODULE_ONE

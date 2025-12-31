@@ -1,4 +1,4 @@
-// CRIO_SOLUTION_START_MODULE_ONE
+
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import img from '../../assets/home.png';
@@ -32,4 +32,3 @@ export default function HeroSlider() {
         </Swiper>
     )
 }
-// CRIO_SOLUTION_END_MODULE_ONE

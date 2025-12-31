@@ -1,4 +1,4 @@
-// CRIO_SOLUTION_START_MODULE_ONE
+
 import { Box, Stack, Typography } from "@mui/material";
 
 export default function IconCard({
@@ -29,4 +29,3 @@ export default function IconCard({
     </Stack>
   );
 }
-// CRIO_SOLUTION_END_MODULE_ONE
