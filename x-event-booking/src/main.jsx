@@ -13,21 +13,13 @@ const router = createBrowserRouter([
     path: "/",
     element: <App />,
     children: [
-      {
-        path: "search",
-        element: <Search />,
-      },
-      {
-        path: "my-bookings",
-        element: <MyBookings />,
-      },
-      {
-        path: "/",
-        element: <Home />,
-      },
+      { index: true, element: <Home /> },   // 👈 Home page
+      { path: "search", element: <Search /> },
+      { path: "my-bookings", element: <MyBookings /> },
     ],
   },
 ]);
+
 
 //Theme object created using createTheme to override the CSS styles of MUI library
 export const theme = createTheme({

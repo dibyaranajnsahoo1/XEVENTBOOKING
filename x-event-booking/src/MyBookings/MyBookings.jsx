@@ -1,4 +1,4 @@
-// CRIO_SOLUTION_START_MODULE_ONE
+
 import { Box, Typography, Container, Stack } from "@mui/material";
 import EventCard from "../components/EventCard/EventCard";
 import { useEffect, useState } from "react";
@@ -44,14 +44,15 @@ export default function MyBookings() {
               alignItems={{ xs: "center", md: "flex-end" }}
             >
               <Typography
-                component="h1"
-                pb={1}
-                fontSize={{ xs: 32, md: 40 }}
-                fontWeight={700}
-                color="#fff"
-              >
-                My Bookings
-              </Typography>
+  variant="h1"
+  component="h1"
+  pb={1}
+  fontWeight={700}
+  color="#fff"
+>
+  My Bookings
+</Typography>
+
               <Box
                 bgcolor="#fff"
                 p={3}
@@ -99,4 +100,3 @@ export default function MyBookings() {
     </>
   );
 }
-// CRIO_SOLUTION_END_MODULE_ONE
